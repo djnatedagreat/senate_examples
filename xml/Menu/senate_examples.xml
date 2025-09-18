@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/senate/examples/angular-base-page</path>
+    <page_callback>CRM_Senate_Examples_Page_ExampleAngularBasePage</page_callback>
+    <title>Example Angular Base Page</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
