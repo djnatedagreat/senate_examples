@@ -1,6 +1,6 @@
-# gov.nysenate.examples
+# senate_examples
 
-These are some example apps that can be referenced for future coding needs. The examples include:
+This is a CiviCRM / Bluebird CRM extension that can be referenced for future coding needs. The examples include:
 1. Deploying an exported SavedSearch (SearchKit) in an extension
 2. Deploying an exported Afform (Form Builder) in an extension
 3. Deploying a custom Angular.js app in an extension
